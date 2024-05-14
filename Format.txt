@@ -1,0 +1,30 @@
+okay lemme show you the structure of this At first:
+<table class="tbl" width = "100%" border="0">
+ <tbody>
+   <tr>
+	<td valign="top">
+	<strong>
+	a<a href="profiles/onaiza.htm"> Dr. Onaiza Maqbool
+	</a>
+	</strong>
+	<br>
+	<p>
+	 "Professor"
+	<br>
+	</p>
+	<strong> Research Interests</strong>
+	 <ul type="disc">
+		<li>::marker"Software reengineering</li>
+		<li>::marker"Software architecture recovery"</li>
+		<li>::marker"Program understanding"</li>
+		<li>::marker"Machine learning"</li>
+	</ul>
+<p>
+	<a herf="mailto:onaiza@qau.edu.pk"> onaiza at qau dot edu dot pk</a>
+<br>
+<a herf="tel:+92-51-9064 2060">+92-51-9064 2060 </a>
+</p>
+</td>
+
+
+

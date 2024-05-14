@@ -1,0 +1,16 @@
+Name Phone Email
+Dr.
+Onaiza Maqbool +92-51-9064 2060 oniaza@qau.edu.pk
+Dr. Khalid Saleem +92-51-9064 2061 ksaleem@qau.edu.pk
+Dr.
+Shuaib Karim +92-51-9064 2055 skarim@qau.edu.pk
+Dr. Rabeeh
+Ayaz Abbasi +92-51-9064 2050 rabbasi@qau.edu.pk
+Dr. Ayyaz Hussain +92-51-9064 2059 ayyaz.hussain@qau.edu.pk
+Dr.
+    Ghazanfar Farooq Siddiqui +92-51-9064 2058 ghazanfar@qau.edu.pk
+Dr.
+    Muddassar Azam Sindhu +92-51-9064 2066 masindhu@qau.edu.pk
+Dr. Akmal
+Saeed Khattak +92-51-9064 2161 akhattak@qau.edu.pk
+Dr. S. M. Naqi +92-51-9064 2013 smnaqi@qau.edu.pk
