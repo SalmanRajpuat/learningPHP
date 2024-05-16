@@ -5,9 +5,9 @@ from reportlab.pdfgen import canvas
 
 def convert_to_24h(time_str):
     """ Convert 12-hour time format to 24-hour time format. """
-    return re.sub(r'(\d{1,2}):(\d{2}) (AM|PM)', lambda match: "{:02d}:{:02d}".format(
-        (int(match.group(1)) % 12) + (12 if match.group(3) == 'PM' else 0),
-        int(match.group(2))), time_str)
+    return re.sub(r'(\d{1,2}:\d{2}) (AM|PM)', lambda match: "{:02d}:{:02d}".format(
+        (int(match.group(1).split(':')[0]) % 12) + (12 if match.group(2) == 'PM' else 0),
+        int(match.group(1).split(':')[1])), time_str)
 
 def create_pdf_with_text(text, filename):
     """ Create a new PDF file with given text. """
@@ -39,4 +39,3 @@ output_file = 'new-schedule.pdf'
 
 # Modify the PDF and save it to new file
 modify_pdf_times(input_file, output_file)
-
